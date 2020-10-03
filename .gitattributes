@@ -1,0 +1,2 @@
+model_transfer.pt filter=lfs diff=lfs merge=lfs -text
+model_scratch.pt filter=lfs diff=lfs merge=lfs -text
